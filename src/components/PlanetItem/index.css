@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.carousel-main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-image {
+  width: 500px;
+  height: 300px;
+}
+
+.planet-name {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.description {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 18px;
+  text-align: center;
+}
